@@ -1,12 +1,12 @@
 # 0x11. C - printf
 ## Concepts
 For this project, we expect you to look at these concepts:
-* Group Projects
-* Pair Programming - How To
-* Flowcharts
-* Technical Writing
-* Printf function brief - What to know to create your own Printf function
-* All about Team Projects + Pairings + FAQ (A must read)
+* [Group Projects](Group_Projects.md)
+* [Pair Programming - How To](Pair_Programming.md)
+* [Flowcharts](flowcharts.md)
+* [Technical Writing](Technical_Writing.md)
+* [Printf function brief - What to know to create your own Printf function](Printf_Function.md)
+* [All about Team Projects + Pairings + FAQ (A must read)](Team_Project.md)
 
 # Background Context
 Write your own printf function.
